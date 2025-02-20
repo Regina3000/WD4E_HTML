@@ -1,6 +1,6 @@
-Repo for Coursera Web Design for Everybody's Intro to HTML course.
+# Repo for Coursera Web Design for Everybody's Intro to HTML course.
 
-Resources cited in the course:
+## Resources cited in the course:
 
 https://www.wpkube.com/html5-cheat-sheet/
 
@@ -14,7 +14,7 @@ https://learn.shayhowe.com/html-css/getting-to-know-html/
 
 (DEIJ Open Image Banks)[https://docs.google.com/document/d/1VXcfZu3rHAcPThdSAN7w_vHDVoLGbHV9hih5yEsB6Fw/edit?usp=sharing]
 
-Images:
+## Images:
 
 ```
     <figure>
@@ -25,7 +25,7 @@ Images:
 
 https://www.w3.org/WAI/tutorials/images/decision-tree/
 
-(Anchor links)[https://intro-webdesign.com/v3/html_repo/week2/02-06-links.html]:
+## (Anchor links)[https://intro-webdesign.com/v3/html_repo/week2/02-06-links.html]:
 
 Absolute links for outside links.
 
@@ -55,4 +55,31 @@ target attributes:
         details
     </details>
 ```
+
+(Inline tags)[https://intro-webdesign.com/v3/html_repo/week2/02-09-common-inline-tags.html]
+
 <abbr> is a neat tag.
+
+(Other specialized tags)[https://intro-webdesign.com/v3/html_repo/week2/02-09-special-tags.html]
+
+## Accessibility
+
+screen readers
+contrast
+readability
+hearing issues
+motor skills
+cognitive disabilities
+neurological conditions
+
+W3C WCAG 2.0
+
+wave.webaim.org
+
+## Validation
+
+code and accessibility
+
+## Hosting
+
+GitHub Pages
