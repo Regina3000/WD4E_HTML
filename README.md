@@ -12,7 +12,7 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 
 https://learn.shayhowe.com/html-css/getting-to-know-html/
 
-(DEIJ Open Image Banks)[https://docs.google.com/document/d/1VXcfZu3rHAcPThdSAN7w_vHDVoLGbHV9hih5yEsB6Fw/edit?usp=sharing]
+[DEIJ Open Image Banks](https://docs.google.com/document/d/1VXcfZu3rHAcPThdSAN7w_vHDVoLGbHV9hih5yEsB6Fw/edit?usp=sharing)
 
 ## Images:
 
@@ -25,7 +25,7 @@ https://learn.shayhowe.com/html-css/getting-to-know-html/
 
 https://www.w3.org/WAI/tutorials/images/decision-tree/
 
-## (Anchor links)[https://intro-webdesign.com/v3/html_repo/week2/02-06-links.html]:
+## [Anchor links](https://intro-webdesign.com/v3/html_repo/week2/02-06-links.html):
 
 Absolute links for outside links.
 
@@ -45,7 +45,7 @@ target attributes:
     _top - not covered; look up later
     _parent - not covered; look up later
 
-(Common tags)[https://intro-webdesign.com/v3/html_repo/week2/02-09-common-block-tags.html]
+[Common tags](https://intro-webdesign.com/v3/html_repo/week2/02-09-common-block-tags.html)
 
  ```
     <details>
@@ -56,11 +56,11 @@ target attributes:
     </details>
 ```
 
-(Inline tags)[https://intro-webdesign.com/v3/html_repo/week2/02-09-common-inline-tags.html]
+[Inline tags](https://intro-webdesign.com/v3/html_repo/week2/02-09-common-inline-tags.html)
 
 <abbr> is a neat tag.
 
-(Other specialized tags)[https://intro-webdesign.com/v3/html_repo/week2/02-09-special-tags.html]
+[Other specialized tags[(https://intro-webdesign.com/v3/html_repo/week2/02-09-special-tags.html)
 
 ## Accessibility
 
