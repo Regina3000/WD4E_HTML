@@ -60,7 +60,7 @@ target attributes:
 
 <abbr> is a neat tag.
 
-[Other specialized tags[(https://intro-webdesign.com/v3/html_repo/week2/02-09-special-tags.html)
+[Other specialized tags](https://intro-webdesign.com/v3/html_repo/week2/02-09-special-tags.html)
 
 ## Accessibility
 
